@@ -16,7 +16,7 @@
   <img alt="GitHub Stars Repository" src="https://img.shields.io/github/stars/whateverlcs/phoenix?style=social">
 </p>
 
-🎸 Phoenix é uma aplicação full stack web construída durante a matéria de PHP na [Universidade Positivo](https://www.up.edu.br// "Site da Universidade Positivo").
+🎸 Phoenix é uma aplicação full stack web construída durante a matéria de PHP em 2019 na [Universidade Positivo](https://www.up.edu.br// "Site da Universidade Positivo").
 
 A aplicação consiste em simular uma loja de vendas de instrumentos musicais, como guitarra, violão ou amplificadores, além disso, possibilita criação de contas, autenticação, edição de perfil e gerenciamento de produtos, usuários e pedidos.
 
